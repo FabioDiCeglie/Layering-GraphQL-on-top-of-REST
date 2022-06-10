@@ -1,0 +1,13 @@
+{
+  "name": "Graphql-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.6.0",
+    "apollo-server": "^3.8.2",
+    "graphql": "^16.5.0"
+  },
+  "author": "FabioDiCeglie <dcfabio96@gmail.com>"
+}
